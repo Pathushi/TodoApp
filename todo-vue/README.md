@@ -32,9 +32,7 @@ https://strong-bavarois-486463.netlify.app
 
 ---
 
-## 📦 Project Setup
+#You can access it here
 
-### Clone the repository
-```bash
-git clone https://github.com/your-username/todo-vue.git
-cd todo-vue
+git clone https://candid-piroshki-dfac1e.netlify.app/
+
