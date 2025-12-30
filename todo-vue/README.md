@@ -1,5 +1,40 @@
-# Vue 3 + Vite
+# 📝 Todo App (Vue 3 + Vite)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple and responsive **Todo application** built using **Vue 3** and **Vite**.  
+This app allows users to add, view, and manage daily tasks efficiently.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Live Demo
+
+👉 **Hosted on Netlify:**  
+https://strong-bavarois-486463.netlify.app
+
+---
+
+## 🛠️ Tech Stack
+
+- **Vue 3**
+- **Vite**
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+
+---
+
+## ✨ Features
+
+- Add new tasks
+- View task list
+- Simple and clean UI
+- Responsive design
+- Fast performance with Vite
+
+---
+
+## 📦 Project Setup
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/todo-vue.git
+cd todo-vue
