@@ -34,5 +34,5 @@ https://strong-bavarois-486463.netlify.app
 
 #You can access it here
 
-git clone https://candid-piroshki-dfac1e.netlify.app/
+https://candid-piroshki-dfac1e.netlify.app/
 
